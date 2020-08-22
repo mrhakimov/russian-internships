@@ -5,6 +5,8 @@ IT-internships in Russia
 * [resource #1](https://www.levels.fyi/internships/)
 * [resource #2](https://github.com/Pitt-CSC/NewGrad-2021)
 
+### Russian internship opportunities:
+
 | Company name         | Cities                  | Paid? | Languages & Technologies | Link                 |
 | -------------------- | ----------------------- | :-----: | ------------------------ | -------------------- |
 | Yandex               | Moscow, Saint Petersburg, Ekaterinburg, Simferopol, Sochi | + | Python, Java, C++, JavaScript; Backend/Frontend/Analytics | [click](https://yandex.ru/yaintern) |
