@@ -4,6 +4,7 @@ IT-internships in Russia
 ### International internship opportunities:
 * [resource #1](https://www.levels.fyi/internships/)
 * [resource #2](https://github.com/Pitt-CSC/NewGrad-2021)
+* [The list of foreign companies that answered someone from Russia (CIS) for sure](/Additional_list_of_companies.md)
 
 ### Russian internship opportunities:
 
