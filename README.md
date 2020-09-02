@@ -28,3 +28,4 @@ IT-internships in Russia
 | Emergn               | Saint Petersburg | + | Engineering - Java, Python, C++, JavaScript, PHP, C#; QA, Analytics | [click](https://www.emergn.com/careers/russia/student-programs/summer-practice/) |
 | OK.RU               | Saint Petersburg | + | JavaScript, Java, iOS, Android, Data Science | [click](https://v.ok.ru/interns.html) |
 | MTS               | ? | + | Big Data, QA, Analytics | [click](https://intern.it-mts-job.ru/) |
+| Arcadia               | Saint Petersburg, and Others | + | Frontend, Backend, .NET, QA | [click](https://softwarecountry.ru/our-vacancies/) |
