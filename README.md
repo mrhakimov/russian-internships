@@ -20,7 +20,7 @@ IT-internships in Russia
 | JetBrains               | Saint Petersburg, Munchen | + | C++, Java/Kotlin, QA, Design, Research | [click](https://www.jetbrains.com/careers/internships/) [click](https://internship.jetbrains.com/seasons/?tab=open) |
 | VK               | Saint Petersburg | + | Frontend, Backend | [click](https://vk.com/jobs) |
 | Huawei               | Moscow, Saint Petersburg | + | Compilers, Data Science, Analytics, Research | [click](https://career.huawei.ru/) |
-| Deutsche Bank Russia               | Moscow | + | ? | [click](https://www.db.com/russia/en/content/careers.htm) |
+| Deutsche Bank Russia               | Moscow, Saint Petersburg | + | C/C++, Java/Scala/Kotlin, C#, Python, JavaScript/TypeScript, QA, Analytics | [click](https://www.db.com/russia/en/content/careers.htm) |
 | Samsung R&D Institute               | Moscow | + | Applied Intelligence, Media Processing, Algorithms Research | [click](https://www.samsung.com/ru/aboutsamsung/careers/srr/internship/) |
 | Ozon               | Moscow, Saint Petersburg, etc. | + | Go, C#, QA, iOS | [click](https://job.ozon.ru/vacancy/?query=&city=6&study_vacancies=on) |
 | Avito               | Moscow | + | Data Analytics, Backend - Go, PHP | [click](https://start.avito.ru/?_ga=2.133158862.1330846862.1597790879-1388562843.1597790879) |
