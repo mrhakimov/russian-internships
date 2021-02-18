@@ -30,3 +30,10 @@ The collection of IT internships taking place in Russia
 * Levels.fyi internships collection - [click](https://www.levels.fyi/internships/)
 * Newgrad positions collection - [click](https://github.com/Pitt-CSC/NewGrad-2021)
 * The list of foreign companies that answered someone from Russia (CIS) for sure - [click](/Additional_list_of_companies.md)
+
+### How can you help?
+* You can create [PR](PR.md) with information about internship opportunities not listed here or with corrections (we all made mistakes, you know)
+* You can click to `Watch` and/or `Star` button on the upper right corner to stay notified of all updates and to help to promote this repo 🙃 (isn't information listed here worth a follow? 😄)
+
+### Credits
+Special thanks to [@heyfaraday](https://github.com/heyfaraday), [@RedMoon32](https://github.com/RedMoon32), [@paraparadox](https://github.com/paraparadox) and [@kol9](https://github.com/kol9) for their contribution, I really appreciate that 👍
