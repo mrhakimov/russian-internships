@@ -11,4 +11,5 @@ git commit -m "Add [COMPANY_NAME] internship program"
 5. Create PR ✅
 6. Wait for my approval 🕑
 7. Proudly call yourself a contributor 🥳
-Thanks for any support! Stay healthy!
+
+#### Thanks for any support! 🙏 Wash your hands and stay healthy! 🦠
