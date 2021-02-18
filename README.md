@@ -1,4 +1,4 @@
-# russian-internships
+# russian-internships 🇷🇺
 The collection of IT internships taking place in Russia
 
 ### Russian internship opportunities:
