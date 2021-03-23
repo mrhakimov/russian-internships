@@ -38,4 +38,4 @@ The collection of IT internships taking place in Russia
 * Or you can simply click to `Watch` and/or `Star` button on the upper right corner to stay notified of all updates and to help to promote this repo 🙃 (isn't information listed here worth a follow? 😄)
 
 ### Credits
-Special thanks to [@heyfaraday](https://github.com/heyfaraday), [@RedMoon32](https://github.com/RedMoon32), [@paraparadox](https://github.com/paraparadox) and [@kol9](https://github.com/kol9) for their contribution, I really appreciate that 👍
+Special thanks to [@heyfaraday](https://github.com/heyfaraday), [@RedMoon32](https://github.com/RedMoon32), [@paraparadox](https://github.com/paraparadox), [@kol9](https://github.com/kol9) and [@dgumir](https://github.com/dgumirov?tab=repositories) for their contribution, I really appreciate that 👍
