@@ -24,7 +24,7 @@ The collection of IT internships taking place in Russia
 | OK.RU               | Saint Petersburg | + | JavaScript, Java, iOS, Android, Data Science | [click](https://oktech.ru/pages/internship/) |
 | MTS               | ? | + | Big Data, QA, Analytics | [click](https://intern.it-mts-job.ru/) |
 | Arcadia               | Saint Petersburg, and Others | + | Frontend, Backend, .NET, QA | [click](https://softwarecountry.ru/our-vacancies/) |
-| Intel |Moscow, Nizhny Novgorod | + | Python, C/C++, Engineering, Data Analytics | [click](https://www.intel.com/content/www/us/en/jobs/locations/russia.html) 
+| Intel |Moscow, Nizhny Novgorod | + | Python, C/C++, Engineering, Data Analytics | [click](http://summer.russia-students.ru) [click](https://www.intel.com/content/www/us/en/jobs/locations/russia.html) 
 
 ### International internship opportunities:
 * Levels.fyi internships collection - [click](https://www.levels.fyi/internships/)
