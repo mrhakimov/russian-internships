@@ -27,8 +27,9 @@ The collection of IT internships taking place in Russia
 | Intel |Moscow, Nizhny Novgorod | + | Python, C/C++, Engineering, Data Analytics | [click](http://summer.russia-students.ru) [click](https://www.intel.com/content/www/us/en/jobs/locations/russia.html) 
 
 ### International internship opportunities:
+* 2022 summer internships collection - [click](https://github.com/pittcsc/Summer2022-Internships)
 * Levels.fyi internships collection - [click](https://www.levels.fyi/internships/)
-* Newgrad positions collection - [click](https://github.com/Pitt-CSC/NewGrad-2021)
+* 2022 newgrad positions collection - [click](https://github.com/coderQuad/New-Grad-Positions-2022)
 * The list of foreign companies that answered someone from Russia (CIS) for sure - [click](/Additional_list_of_companies.md)
 
 ### How can you help?
