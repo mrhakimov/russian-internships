@@ -16,7 +16,7 @@ The collection of IT internships taking place in Russia
 | VK               | Saint Petersburg | + | Frontend, Backend | [click](https://vk.com/jobs) |
 | Huawei               | Moscow, Saint Petersburg | + | Compilers, Data Science, Analytics, Research | [click](https://career.huawei.ru/) |
 | Deutsche Bank Russia               | Moscow, Saint Petersburg | + | C/C++, Java/Scala/Kotlin, C#, Python, JavaScript/TypeScript, QA, Analytics | [click](https://www.db.com/russia/en/content/careers.htm) |
-| Samsung R&D Institute               | Moscow | + | Applied Intelligence, Media Processing, Algorithms Research | [click](https://www.samsung.com/ru/aboutsamsung/careers/srr/internship/) |
+| Samsung Research Russia               | Moscow | + | **System programming:** C, C++, Compilers, Runtimes, Kernel <br> **Machine Learning:** Deep Learning, Image Processing, Computer Vision <br> ***More rarely:*** Graphics, Android, Web Development | [VK](https://vk.com/samsung_srr) <br> [hh.ru](https://hh.ru/employer/429) |
 | Ozon               | Moscow, Saint Petersburg, etc. | + | Go, C#, QA, iOS | [click](https://job.ozon.ru/vacancy/?query=&city=6&study_vacancies=on) |
 | Avito               | Moscow | + | Data Analytics, Backend - Go, PHP | [click](https://start.avito.ru/?_ga=2.133158862.1330846862.1597790879-1388562843.1597790879) |
 | Croc               | Moscow | + | Oracle | [click](https://www.croc.ru/career/vacancies/detail/85028/) |
