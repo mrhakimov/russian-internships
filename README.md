@@ -25,6 +25,7 @@ The collection of IT internships taking place in Russia
 | MTS               | ? | + | Big Data, QA, Analytics | [click](https://intern.it-mts-job.ru/) |
 | Arcadia               | Saint Petersburg, and Others | + | Frontend, Backend, .NET, QA | [click](https://softwarecountry.ru/our-vacancies/) |
 | Intel |Moscow, Nizhny Novgorod | + | Python, C/C++, Engineering, Data Analytics | [click](http://summer.russia-students.ru) [click](https://www.intel.com/content/www/us/en/jobs/locations/russia.html) 
+| Andersen | Due recent events, company has not hired employees from Russia | - | JavaScript, Java, iOS, Android, QA Automation | [click](https://people.andersenlab.com/trainee) 
 
 ### International internship opportunities:
 * 2022 summer internships collection - [click](https://github.com/pittcsc/Summer2022-Internships)
