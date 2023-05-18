@@ -26,7 +26,8 @@ The collection of IT internships taking place in Russia
 | Arcadia               | Saint Petersburg, and Others | + | Frontend, Backend, .NET, QA | [click](https://softwarecountry.ru/our-vacancies/) |
 | Intel |Moscow, Nizhny Novgorod | + | Python, C/C++, Engineering, Data Analytics | [click](http://summer.russia-students.ru) [click](https://www.intel.com/content/www/us/en/jobs/locations/russia.html) 
 | Andersen | Due recent events, company has not hired employees from Russia | - | JavaScript, Java, iOS, Android, QA Automation | [click](https://people.andersenlab.com/trainee) 
-| Aston | Saint Petersburg, Kazan, Rostov-on-Don, Remote RF (no more than GMT+6, except Moscow) | - | Java, JavaScript, iOS, Android, AQA, QA, DevOps, System Analyst, UX/UI Design, Project Management | [click](https://astondevs.ru/internship) 
+| Aston | Saint Petersburg, Kazan, Rostov-on-Don, Remote RF (no more than GMT+6, except Moscow) | - | Java, JavaScript, iOS, Android, AQA, QA, DevOps, System Analyst, UX/UI Design, Project Management | [click](https://astondevs.ru/internship)
+| Aviasales | Remote | + | Advertisement, Analytics, Android, Backend, Design, DevOps, Frontend, PR, Marketing, Sales, SMM | [click](https://www.aviasales.ru/about/vacancies) 
 
 ### International internship opportunities:
 * 2022 summer internships collection - [click](https://github.com/pittcsc/Summer2022-Internships)
