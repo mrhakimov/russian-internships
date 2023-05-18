@@ -28,12 +28,12 @@ The collection of IT internships taking place in Russia
 | Andersen | Due recent events, company has not hired employees from Russia | - | JavaScript, Java, iOS, Android, QA Automation | [click](https://people.andersenlab.com/trainee) 
 | Aston | Saint Petersburg, Kazan, Rostov-on-Don, Remote RF (no more than GMT+6, except Moscow) | - | Java, JavaScript, iOS, Android, AQA, QA, DevOps, System Analyst, UX/UI Design, Project Management | [click](https://astondevs.ru/internship)
 | Aviasales | Remote | + | Advertisement, Analytics, Android, Backend, Design, DevOps, Frontend, PR, Marketing, Sales, SMM | [click](https://www.aviasales.ru/about/vacancies) 
-| Solanteq | Saint Petersburg | + | Implementation, R&D (Java Developer) | [click](https://spb.hh.ru/vacancy/79398830?hhtmFrom=employer_vacancies) [click](https://spb.hh.ru/vacancy/79007224?hhtmFrom=employer_vacancies)
+| Solanteq | Saint Petersburg | + | Implementation, R&D (Java Developer) | [click](https://spb.hh.ru/vacancy/79398830?hhtmFrom=employer_vacancies) [click](https://spb.hh.ru/vacancy/79007224?hhtmFrom=employer_vacancies) [click](https://solanteq.ru/%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b8/)
 
 ### International internship opportunities:
-* 2022 summer internships collection - [click](https://github.com/pittcsc/Summer2022-Internships)
+* 2023 summer internships collection - [click](https://github.com/pittcsc/Summer2023-Internships)
 * Levels.fyi internships collection - [click](https://www.levels.fyi/internships/)
-* 2022 newgrad positions collection - [click](https://github.com/coderQuad/New-Grad-Positions-2022)
+* 2023 newgrad positions collection - [click](https://github.com/coderQuad/New-Grad-Positions-2023)
 * The list of foreign companies that answered someone from Russia (CIS) for sure - [click](/Additional_list_of_companies.md)
 
 ### How can you help?
@@ -43,4 +43,4 @@ The collection of IT internships taking place in Russia
 * Or you can simply click to `Watch` and/or `Star` button on the upper right corner to stay notified of all updates and to help to promote this repo 🙃 (isn't information listed here worth a follow? 😄)
 
 ### Credits
-Special thanks to [@heyfaraday](https://github.com/heyfaraday), [@RedMoon32](https://github.com/RedMoon32), [@paraparadox](https://github.com/paraparadox), [@kol9](https://github.com/kol9), [@dgumir](https://github.com/dgumirov?tab=repositories), [@unterumarmung](https://github.com/unterumarmung) and [@bas-kirill](https://github.com/bas-kirill) for their contribution, I really appreciate that 👍
+Special thanks to [@heyfaraday](https://github.com/heyfaraday), [@RedMoon32](https://github.com/RedMoon32), [@paraparadox](https://github.com/paraparadox), [@kol9](https://github.com/kol9), [@dgumir](https://github.com/dgumirov?tab=repositories), [@unterumarmung](https://github.com/unterumarmung), [@bas-kirill](https://github.com/bas-kirill) and [@petuch03](https://github.com/petuch03) for their contribution, I really appreciate that 👍
