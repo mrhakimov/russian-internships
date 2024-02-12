@@ -13,7 +13,7 @@ The collection of IT internships taking place in Russia
 | Kontur               | Ekaterinburg, Saint Petersburg, Novosibirsk | + | C#, Data Science, Frontend, Backend - Java, C#, C/C++, Go, Python; iOS, Android, Analytics, QA | [click](https://kontur.ru/education/programs/intern) |
 | VK               | Saint Petersburg | + | Frontend, Backend | [click](https://internship.vk.company/) |
 | Huawei               | Moscow, Saint Petersburg | + | Compilers, Data Science, Analytics, Research | [click](https://career.huawei.ru/) |
-| Ozon               | Moscow, Saint Petersburg, etc. | + | Go, C#, QA, iOS | [click](https://job.ozon.ru/vacancy/?query=&city=6&study_vacancies=on) |
+| Ozon               | Moscow, Saint Petersburg, etc. | + | Go, C#, QA, iOS | [click](https://ozon.tech/routestart) [click](https://job.ozon.ru/internships/) [click](https://route256.ozon.ru/) [click](https://ozoncamp.pro/) |
 | Avito               | Moscow | + | Data Analytics, Backend - Go, PHP | [click](https://start.avito.ru/?_ga=2.133158862.1330846862.1597790879-1388562843.1597790879) |
 | Croc               | Moscow | + | Oracle | [click](https://www.croc.ru/career/vacancies/detail/85028/) |
 | MTS               | ? | + | Big Data, QA, Analytics | [click](https://intern.it-mts-job.ru/) |
