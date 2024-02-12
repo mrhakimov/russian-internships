@@ -16,7 +16,6 @@ The collection of IT internships taking place in Russia
 | Ozon               | Moscow, Saint Petersburg, etc. | + | Go, C#, QA, iOS | [click](https://job.ozon.ru/vacancy/?query=&city=6&study_vacancies=on) |
 | Avito               | Moscow | + | Data Analytics, Backend - Go, PHP | [click](https://start.avito.ru/?_ga=2.133158862.1330846862.1597790879-1388562843.1597790879) |
 | Croc               | Moscow | + | Oracle | [click](https://www.croc.ru/career/vacancies/detail/85028/) |
-| Emergn               | Saint Petersburg | + | Engineering - Java, Python, C++, JavaScript, PHP, C#; QA, Analytics | [click](https://www.emergn.com/careers/russia/student-programs/summer-practice/) |
 | OK.RU               | Saint Petersburg | + | JavaScript, Java, iOS, Android, Data Science | [click](https://oktech.ru/pages/internship/) |
 | MTS               | ? | + | Big Data, QA, Analytics | [click](https://intern.it-mts-job.ru/) |
 | Arcadia               | Saint Petersburg, and Others | + | Frontend, Backend, .NET, QA | [click](https://softwarecountry.ru/our-vacancies/) |
