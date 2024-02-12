@@ -20,8 +20,9 @@ The collection of IT internships taking place in Russia
 | YADRO |Moscow, Saint Petersburg, Nizhny Novgorod | + | Python, C/C++, Go, Verilog, Engineering, Data Analytics | [click](https://careers.yadro.com/impulse/) [click](https://careers.yadro.com/internship/) |
 | Aston | Saint Petersburg, Kazan, Rostov-on-Don, Remote RF (no more than GMT+6, except Moscow) | - | Java, Go, C++, C#, Scala, JavaScript, iOS, Android, AQA, QA, DevOps, System Analyst, UX/UI Design, Project Management | [click](https://career.astondevs.ru/trainee) |
 | Aviasales | Remote | + | Advertisement, Analytics, Android, Backend, Design, DevOps, Frontend, PR, Marketing, Sales, SMM | [click](https://www.aviasales.ru/about/vacancies) |
-| Infotecs | Moscow, Saint Petersburg, Tomsk, Ufa, Penza, Ryazan | + | C/C++, Go, C#, Python, JS, Angular, DevOps | [click](https://academy.infotecs.ru/intern/) |
+| Infotecs | Moscow, Saint Petersburg, Tomsk, Ufa, Penza, Ryazan | + | C/C++, Go, C#, Python, JavaScript, Angular, DevOps | [click](https://academy.infotecs.ru/intern/) |
 | Solanteq | Saint Petersburg | + | Implementation, R&D (Java Developer) | [click](https://solanteq.ru/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8/) |
+| Wildberries (School) | Moscow | - | Go, Android, JavaScript, Data Scientist | [click](https://tech.wildberries.ru/) [click](https://spb.hh.ru/vacancy/84731199) [click](https://spb.hh.ru/vacancy/92966644) |
 
 ### International internship opportunities:
 * 2023 summer internships collection - [click](https://github.com/pittcsc/Summer2023-Internships)
