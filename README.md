@@ -5,7 +5,7 @@ The collection of IT internships taking place in Russia
 
 | Company name         | Cities                  | Paid? | Languages & Technologies | Link                 |
 | -------------------- | ----------------------- | :-----: | ------------------------ | -------------------- |
-| Yandex               | Moscow, Saint Petersburg, Ekaterinburg, Simferopol, Sochi | + | Python, Java, C++, JavaScript; Backend/Frontend/Analytics/ML/Android/iOS | [click](https://yandex.ru/yaintern) |
+| Yandex               | Moscow, Saint Petersburg, Ekaterinburg, Simferopol, Sochi | + | Python, Java/Kotlin, C, C++, Go, Scala, JavaScript; Backend/Frontend/Analytics/ML/Android/iOS | [click](https://yandex.ru/yaintern) [click](https://dev.go.yandex/internships) |
 | Kaspersky Lab               | Moscow | + | С/C++, C#, Python, Go, Scala, Java, iOS, Frontend, QA, DS, DevOps, UX/UI, Mobile | [click](https://safeboard.kaspersky.ru/?directions=y) [click](https://careers.kaspersky.ru/vacancy/) |
 | Alpha Bank               | Moscow, Saint Petersburg, etc. | + | Engineering, Analytics, Business | [click](https://job.alfabank.ru/vacancies) |
 | Tinkoff Bank               | Moscow, Saint Petersburg, etc. | + | QA, Scala, iOS, Android | [click](https://fintech.tinkoff.ru/) |
