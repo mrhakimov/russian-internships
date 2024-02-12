@@ -10,7 +10,7 @@ The collection of IT internships taking place in Russia
 | Alpha Bank               | Moscow, Saint Petersburg, etc. | + | Engineering, Analytics, Business | [click](https://job.alfabank.ru/vacancies) |
 | Tinkoff Bank               | Moscow, Saint Petersburg, etc. | + | QA, Java, Go, C#, Python, Scala, iOS, Android, ML, Analytics | [click](https://fintech.tinkoff.ru/start/) |
 | Sberbank               | Moscow, Saint Petersburg, etc. | + | ? | [click](https://sbergraduate.ru/internships/) [click](https://sbergraduate.ru/sberseasons-regions/) |
-| Kontur               | Ekaterinburg, Saint Petersburg, Novosibirsk | + | C#, Data Science, Frontend, Backend - Java, C++, C#; iOS, Android, Analytics, QA | [click](https://kontur.ru/education/programs/intern) |
+| Kontur               | Ekaterinburg, Saint Petersburg, Novosibirsk | + | C#, Data Science, Frontend, Backend - Java, C#, C/C++, Go, Python; iOS, Android, Analytics, QA | [click](https://kontur.ru/education/programs/intern) |
 | VK               | Saint Petersburg | + | Frontend, Backend | [click](https://vk.com/jobs) |
 | Huawei               | Moscow, Saint Petersburg | + | Compilers, Data Science, Analytics, Research | [click](https://career.huawei.ru/) |
 | Ozon               | Moscow, Saint Petersburg, etc. | + | Go, C#, QA, iOS | [click](https://job.ozon.ru/vacancy/?query=&city=6&study_vacancies=on) |
