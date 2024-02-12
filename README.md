@@ -5,30 +5,25 @@ The collection of IT internships taking place in Russia
 
 | Company name         | Cities                  | Paid? | Languages & Technologies | Link                 |
 | -------------------- | ----------------------- | :-----: | ------------------------ | -------------------- |
-| Yandex               | Moscow, Saint Petersburg, Ekaterinburg, Simferopol, Sochi | + | Python, Java, C++, JavaScript; Backend/Frontend/Analytics/ML/Android/iOS | [click](https://yandex.ru/yaintern) |
-| Luxoft               | Moscow, Saint Petersburg, N.Novgorod, Omsk | + | Java, JavaScript, C++, C#, .Net, PHP, Python, Pega, BigData, DevOps, QA, Analytics | [click](https://career.luxoft.com/locations/russia/) |
-| Kaspersky Lab               | Moscow | + | С/C++, C#, Python, Go, Scala, Java, iOS, Frontend, QA, DS, DevOps, UX/UI, Mobile | [click](https://safeboard.kaspersky.ru/?directions=y) [click](https://careers.kaspersky.ru/vacancy/) |
+| Yandex               | Moscow, Saint Petersburg, Ekaterinburg, Simferopol, Sochi | + | Python, Java/Kotlin, C, C++, Go, Scala, JavaScript; Backend/Frontend/Analytics/ML/Android/iOS | [click](https://yandex.ru/yaintern) [click](https://dev.go.yandex/internships) |
+| Kaspersky Lab               | Moscow | + | С/C++, C#, Python, Go, Scala, Java, iOS, Frontend, QA, DS, DevOps, UX/UI, Mobile | [click](https://careers.kaspersky.ru/events/safeboard-2023) [click](https://careers.kaspersky.ru/vacancy/) |
 | Alpha Bank               | Moscow, Saint Petersburg, etc. | + | Engineering, Analytics, Business | [click](https://job.alfabank.ru/vacancies) |
-| Tinkoff Bank               | Moscow, Saint Petersburg, etc. | + | QA, Scala, iOS, Android | [click](https://fintech.tinkoff.ru/) |
-| Sberbank               | Moscow, Saint Petersburg, etc. | + | ? | [click](https://sbergraduate.ru/sberseasons-regions/) |
-| Kontur               | Ekaterinburg, Saint Petersburg, Novosibirsk | + | C#, Data Science, Frontend, Backend - Java, C++, C#; iOS, Android, Analytics, QA | [click](https://kontur.ru/education/programs/intern) |
-| JetBrains               | Saint Petersburg, Munchen | + | C++, Java/Kotlin, QA, Design, Research | [click](https://www.jetbrains.com/careers/internships/) [click](https://internship.jetbrains.com/seasons/?tab=open) |
-| VK               | Saint Petersburg | + | Frontend, Backend | [click](https://vk.com/jobs) |
+| Tinkoff Bank               | Moscow, Saint Petersburg, etc. | + | QA, Java, Go, C#, Python, Scala, iOS, Android, ML, Analytics | [click](https://fintech.tinkoff.ru/start/) |
+| Sberbank               | Moscow, Saint Petersburg, etc. | + | ? | [click](https://sbergraduate.ru/internships/) [click](https://sbergraduate.ru/sberseasons-regions/) |
+| Kontur               | Ekaterinburg, Saint Petersburg, Novosibirsk | + | C#, Data Science, Frontend, Backend - Java, C#, C/C++, Go, Python; iOS, Android, Analytics, QA | [click](https://kontur.ru/education/programs/intern) |
+| VK               | Saint Petersburg | + | Frontend, Backend | [click](https://internship.vk.company/) |
 | Huawei               | Moscow, Saint Petersburg | + | Compilers, Data Science, Analytics, Research | [click](https://career.huawei.ru/) |
-| Deutsche Bank Russia               | Moscow, Saint Petersburg | + | C/C++, Java/Scala/Kotlin, C#, Python, JavaScript/TypeScript, QA, Analytics | [click](https://www.db.com/russia/en/content/careers.htm) |
-| Samsung Research Russia               | Moscow | + | **System programming:** C, C++, Compilers, Runtimes, Kernel <br> **Machine Learning:** Deep Learning, Image Processing, Computer Vision <br> ***More rarely:*** Graphics, Android, Web Development | [VK](https://vk.com/samsung_srr) <br> [hh.ru](https://hh.ru/employer/429) |
-| Ozon               | Moscow, Saint Petersburg, etc. | + | Go, C#, QA, iOS | [click](https://job.ozon.ru/vacancy/?query=&city=6&study_vacancies=on) |
-| Avito               | Moscow | + | Data Analytics, Backend - Go, PHP | [click](https://start.avito.ru/?_ga=2.133158862.1330846862.1597790879-1388562843.1597790879) |
-| Croc               | Moscow | + | Oracle | [click](https://www.croc.ru/career/vacancies/detail/85028/) |
-| Emergn               | Saint Petersburg | + | Engineering - Java, Python, C++, JavaScript, PHP, C#; QA, Analytics | [click](https://www.emergn.com/careers/russia/student-programs/summer-practice/) |
-| OK.RU               | Saint Petersburg | + | JavaScript, Java, iOS, Android, Data Science | [click](https://oktech.ru/pages/internship/) |
-| MTS               | ? | + | Big Data, QA, Analytics | [click](https://intern.it-mts-job.ru/) |
-| Arcadia               | Saint Petersburg, and Others | + | Frontend, Backend, .NET, QA | [click](https://softwarecountry.ru/our-vacancies/) |
-| Intel |Moscow, Nizhny Novgorod | + | Python, C/C++, Engineering, Data Analytics | [click](http://summer.russia-students.ru) [click](https://www.intel.com/content/www/us/en/jobs/locations/russia.html) 
-| Andersen | Due recent events, company has not hired employees from Russia | - | JavaScript, Java, iOS, Android, QA Automation | [click](https://people.andersenlab.com/trainee) 
-| Aston | Saint Petersburg, Kazan, Rostov-on-Don, Remote RF (no more than GMT+6, except Moscow) | - | Java, JavaScript, iOS, Android, AQA, QA, DevOps, System Analyst, UX/UI Design, Project Management | [click](https://astondevs.ru/internship)
-| Aviasales | Remote | + | Advertisement, Analytics, Android, Backend, Design, DevOps, Frontend, PR, Marketing, Sales, SMM | [click](https://www.aviasales.ru/about/vacancies) 
-| Solanteq | Saint Petersburg | + | Implementation, R&D (Java Developer) | [click](https://spb.hh.ru/vacancy/79398830?hhtmFrom=employer_vacancies) [click](https://spb.hh.ru/vacancy/79007224?hhtmFrom=employer_vacancies) [click](https://solanteq.ru/%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b8/)
+| Ozon               | Moscow, Saint Petersburg, etc. | + | Go, C#, QA, iOS | [click](https://ozon.tech/routestart) [click](https://job.ozon.ru/internships/) [click](https://route256.ozon.ru/) [click](https://ozoncamp.pro/) |
+| Avito               | Moscow | + | Data Analytics, Backend - Go, PHP | [click](https://start.avito.ru/) |
+| Croc               | Moscow | + | Oracle | [click](https://internship.croc.ru/) |
+| MTS               | ? | + | Big Data, QA, Analytics | [click](https://job.mts.ru/internship) [click](https://rabota.mtsbank.ru/trainee) |
+| YADRO |Moscow, Saint Petersburg, Nizhny Novgorod | + | Python, C/C++, Go, Verilog, Engineering, Data Analytics | [click](https://careers.yadro.com/impulse/) [click](https://careers.yadro.com/internship/) |
+| Aston | Saint Petersburg, Kazan, Rostov-on-Don, Remote RF (no more than GMT+6, except Moscow) | - | Java, Go, C++, C#, Scala, JavaScript, iOS, Android, AQA, QA, DevOps, System Analyst, UX/UI Design, Project Management | [click](https://career.astondevs.ru/trainee) |
+| Aviasales | Remote | + | Advertisement, Analytics, Android, Backend, Design, DevOps, Frontend, PR, Marketing, Sales, SMM | [click](https://www.aviasales.ru/about/vacancies) |
+| Infotecs | Moscow, Saint Petersburg, Tomsk, Ufa, Penza, Ryazan | + | C/C++, Go, C#, Python, JavaScript, Angular, DevOps | [click](https://academy.infotecs.ru/intern/) |
+| Solanteq | Saint Petersburg | + | Implementation, R&D (Java Developer) | [click](https://solanteq.ru/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8/) |
+| ConsultantPlus | Moscow | + | Python, Java, C++, C#, Java, Python, PHP, HTML, JavaScript, Android, iOS | [click](https://www.consultant.ru/edu/student/stazjirovka/stazjirovka_tech/) |
+| Wildberries (School) | Moscow | - | Go, Android, JavaScript, Data Scientist | [click](https://tech.wildberries.ru/) [click](https://spb.hh.ru/vacancy/84731199) [click](https://spb.hh.ru/vacancy/92966644) |
 
 ### International internship opportunities:
 * 2023 summer internships collection - [click](https://github.com/pittcsc/Summer2023-Internships)
