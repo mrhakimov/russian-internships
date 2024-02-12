@@ -17,7 +17,6 @@ The collection of IT internships taking place in Russia
 | Avito               | Moscow | + | Data Analytics, Backend - Go, PHP | [click](https://start.avito.ru/?_ga=2.133158862.1330846862.1597790879-1388562843.1597790879) |
 | Croc               | Moscow | + | Oracle | [click](https://www.croc.ru/career/vacancies/detail/85028/) |
 | MTS               | ? | + | Big Data, QA, Analytics | [click](https://intern.it-mts-job.ru/) |
-| Arcadia               | Saint Petersburg, and Others | + | Frontend, Backend, .NET, QA | [click](https://softwarecountry.ru/our-vacancies/) |
 | Intel |Moscow, Nizhny Novgorod | + | Python, C/C++, Engineering, Data Analytics | [click](http://summer.russia-students.ru) [click](https://www.intel.com/content/www/us/en/jobs/locations/russia.html) 
 | Andersen | Due recent events, company has not hired employees from Russia | - | JavaScript, Java, iOS, Android, QA Automation | [click](https://people.andersenlab.com/trainee) 
 | Aston | Saint Petersburg, Kazan, Rostov-on-Don, Remote RF (no more than GMT+6, except Moscow) | - | Java, JavaScript, iOS, Android, AQA, QA, DevOps, System Analyst, UX/UI Design, Project Management | [click](https://astondevs.ru/internship)
