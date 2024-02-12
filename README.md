@@ -19,7 +19,7 @@ The collection of IT internships taking place in Russia
 | MTS               | ? | + | Big Data, QA, Analytics | [click](https://job.mts.ru/internship) [click](https://rabota.mtsbank.ru/trainee) |
 | Aston | Saint Petersburg, Kazan, Rostov-on-Don, Remote RF (no more than GMT+6, except Moscow) | - | Java, Go, C++, C#, Scala, JavaScript, iOS, Android, AQA, QA, DevOps, System Analyst, UX/UI Design, Project Management | [click](https://career.astondevs.ru/trainee) |
 | Aviasales | Remote | + | Advertisement, Analytics, Android, Backend, Design, DevOps, Frontend, PR, Marketing, Sales, SMM | [click](https://www.aviasales.ru/about/vacancies) |
-| Solanteq | Saint Petersburg | + | Implementation, R&D (Java Developer) | [click](https://spb.hh.ru/vacancy/79398830?hhtmFrom=employer_vacancies) [click](https://spb.hh.ru/vacancy/79007224?hhtmFrom=employer_vacancies) [click](https://solanteq.ru/%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b8/)
+| Solanteq | Saint Petersburg | + | Implementation, R&D (Java Developer) | [click](https://solanteq.ru/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8/) |
 
 ### International internship opportunities:
 * 2023 summer internships collection - [click](https://github.com/pittcsc/Summer2023-Internships)
