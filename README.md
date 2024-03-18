@@ -24,6 +24,9 @@ The collection of IT internships taking place in Russia
 | Solanteq | Saint Petersburg | + | Implementation, R&D (Java Developer) | [click](https://solanteq.ru/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8/) |
 | ConsultantPlus | Moscow | + | Python, Java, C++, C#, Java, Python, PHP, HTML, JavaScript, Android, iOS | [click](https://www.consultant.ru/edu/student/stazjirovka/stazjirovka_tech/) |
 | Wildberries (School) | Moscow | - | Go, Android, JavaScript, Data Scientist | [click](https://tech.wildberries.ru/) [click](https://spb.hh.ru/vacancy/84731199) [click](https://spb.hh.ru/vacancy/92966644) |
+| Gazprombank.Tech | Moscow | + | Java/Kotlin, JavaScript, IOS, Android | [click](https://gpb.fut.ru/) [click](https://www.gpbspace.ru/digital/gpb-it-factory/) [click](https://www.gpbspace.ru/digital/level-up/)
+| Gazprom Neft | Moscow, Saint Petersburg, Omsk, etc. | + | С#, Java, Python, DevOps, ML, QA | [click](https://career.gazprom-neft.ru/graduates/)
+| Rosatom | Moscow, Saint Petersburg, Ekaterinburg, Nizhny Novgorod, Sochi, etc. | + | Java, Data Engineer | [click](https://edu.rosatom.ru/) |
 
 ### International internship opportunities:
 * 2023 summer internships collection - [click](https://github.com/pittcsc/Summer2023-Internships)
